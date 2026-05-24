@@ -24,4 +24,4 @@ Data Visualization
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]([dashboard.png](https://github.com/remorwot/coffee-shop-sales-insights/blob/2973a2166002c61db15b62c2bf2310893c9936a2/Screenshot%202026-05-24%20204508.png))
